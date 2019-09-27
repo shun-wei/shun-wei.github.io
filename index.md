@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>huangshunwei</h1>
+      <h1>黄顺伟</h1>
       <p><b>硕士研究生</b></p>
       <p><b>邮箱：huangshunwei@pku.edu.com</b></p>
       <p><a href="/index-en.html">English Version</a></p>
